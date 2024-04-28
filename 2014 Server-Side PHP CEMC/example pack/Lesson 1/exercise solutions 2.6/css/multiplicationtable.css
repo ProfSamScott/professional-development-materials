@@ -1,0 +1,25 @@
+/* 
+    Created on : 4-Jul-2014, 11:30:52 AM
+    Author     : Sam Scott
+*/
+body {
+    font-size:100%;
+}
+td {
+    width:30px;
+    height:30px;
+    font-family:arial,helvetica,sansserif;
+    font-size:1em;
+    text-align:right;
+    vertical-align:middle;
+    padding:7px;
+}
+td.headCell {
+    text-decoration:bold;
+    background-color:lightgray;
+    font-size:1.1em
+}
+h1 {
+    font-size:1.5em;
+    font-family:arial,helvetica,sansserif;
+}

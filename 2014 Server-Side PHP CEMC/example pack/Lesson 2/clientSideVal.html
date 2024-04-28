@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!--
+An example of HTML5 client-side form validation. The onsubmit attribute is used
+to stop the form from refreshing the page.
+
+Sam Scott, Sheridan college, 2014.
+-->
+<html>
+    <head>
+        <title>HTML5 Form Validation Examples</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <h1>HTML5 Form Validation Examples</h1>
+        <form action="" method="GET" 
+              onsubmit="alert('Data is good!');return false;">
+            <input type="number" name="even" style="width:152px"
+                   title="Even number from 0 to 100" 
+                   placeholder="Even int (0 to 100)"
+                   min="0" max="100" step="2" required>
+            <br>
+            <input type="text" name="code" 
+                   title="Between 1 and 10 characters long"  
+                   placeholder="10 chars max"
+                   maxlength="10" required>
+            <br>
+            <input type="text" name="variableName" 
+                   title="Legal variable names only"
+                   placeholder="Java variable name"
+                   pattern="[a-zA-Z][a-zA-Z0-9_]*" required>
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+</html>

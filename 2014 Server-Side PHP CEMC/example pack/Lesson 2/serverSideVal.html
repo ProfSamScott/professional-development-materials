@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+An form to be used with serverSideVal.php
+Sam Scott, Sheridan college, 2014.
+-->
+<html>
+    <head>
+        <title>PHP Validation Examples</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>
+        <h1>PHP Validation Examples</h1>
+        <form action="serverSideVal.php" method="GET">
+            <input type="text" name="even" 
+                   title="Even number from 0 to 100" 
+                   placeholder="Even int (0 to 100)">
+            <br>
+            <input type="text" name="code" 
+                   title="Between 1 and 10 characters long" 
+                   placeholder="10 chars max">
+            <br>
+            <input type="text" name="variableName" 
+                   title="Legal variable names only" 
+                   placeholder="Java variable name">
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
