@@ -1,7 +1,10 @@
 # Materials from Professional Development Workshops
 This repository holds materials from my PD workshops.
+<h2>Incorporating Indigenous Ways of
+Knowing in Computer Science</h2>
+<p>A presentation with Nathan Rowbottom on our work on an introductory computer science course for the SNP STEAM Academy. Waterloo, August 2023.</p>
 <h2>How ChatGPT Works: A Non-Technical Explanation </h2>
-<p>Presenteda  one-hour online workshop on what's going on under the hood in ChatGPT and other Large Language Models.</p>
+<p>Presenteda  one-hour online workshop on what's going on under the hood in ChatGPT and other Large Language Models. Mohawk College, 2023</p>
 <h2>Natural Language Processing with spaCy</h2>
 <p>Presented a one-hour online workshop on the spaCy module for linguistic knowledge extraction and pattern matching in Python. University of Waterloo, August 17, 2021.</p>
 <h2>Machine Learning: Implementing the Algorithms</h2>
