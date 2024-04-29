@@ -1,5 +1,7 @@
 # Materials from Professional Development Workshops
 This repository holds materials from my PD workshops.
+<h2>Getting Inside ChatGPT (and other Large Language Models) </h2>
+<p>Presented a 1-hour workshop with Mike Deutsch on how LLMs work and how to use unplugged and coding activities to help students understand. Seneca College, April 27, 2024.</p>
 <h2>How ChatGPT Works: A Non-Technical Explanation </h2>
 <p>Presented a one-hour online workshop on what's going on under the hood in ChatGPT and other Large Language Models. Mohawk College, October 2023</p>
 <h2>Incorporating Indigenous Ways of
