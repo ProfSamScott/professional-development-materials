@@ -42,7 +42,7 @@ Knowing in Computer Science</h2>
                                 <p>Presented a basic introduction to the JavaScript programming language for high school
                                     teachers. University of Waterloo, 2013.</p>
                                     <h2>Introduction to App Inventor</h2>
-                                <p>Presented a basic introduction to MIT's <a href="https://appinventor.mit.edu/explore/"
+                                <p>Presented (with Pejman Salehi) a basic introduction to MIT's <a href="https://appinventor.mit.edu/explore/"
                                         target="_blank">App Inventor</a>, a drag-and-drop programming system for creating
                                     Android Apps. University of Toronto, 2012.</p>
                                     <h2>Java Game Programming Made "Easy"</h2>
